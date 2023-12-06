@@ -1,0 +1,2 @@
+# HelloSpringCloud-confiig
+HelloSpringCloud项目Config配置中心
