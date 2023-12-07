@@ -1,1 +1,2 @@
-ConfigCenterMain3344-config-dev
+config:
+  info: ConfigCenterMain3344-config-dev, version = 1
