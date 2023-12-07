@@ -1,1 +1,2 @@
-ConfigCenterMain3344-config-test
+config:
+  info: ConfigCenterMain3344-config-test, version = 1
